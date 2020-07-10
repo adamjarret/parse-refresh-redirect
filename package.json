@@ -1,6 +1,6 @@
 {
   "name": "parse-refresh-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse HTML and return a redirect URL if one is defined in the content attribute of a meta[http-equiv=\"refresh\"] element.",
   "main": "index.js",
   "types": "./index.d.ts",
@@ -17,9 +17,21 @@
     "cover": "nyc yarn test",
     "test": "spoon './test/**/*.test.js'"
   },
-  "keywords": [],
+  "keywords": [
+    "html",
+    "meta",
+    "refresh",
+    "redirect",
+    "parse",
+    "parse5"
+  ],
   "author": "Adam Jarret <adam@atj.me> (https://atj.me)",
   "license": "MIT",
+  "homepage": "https://github.com/adamjarret/parse-refresh-redirect#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamjarret/parse-refresh-redirect.git"
+  },
   "dependencies": {
     "parse5": "^6.0.0"
   },
