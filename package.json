@@ -1,6 +1,6 @@
 {
   "name": "parse-refresh-redirect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parse HTML and return a redirect URL if one is defined in the content attribute of a meta[http-equiv=\"refresh\"] element.",
   "main": "index.js",
   "types": "./index.d.ts",
