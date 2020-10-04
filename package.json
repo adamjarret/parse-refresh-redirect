@@ -33,14 +33,14 @@
     "url": "https://github.com/adamjarret/parse-refresh-redirect.git"
   },
   "dependencies": {
-    "parse5": "^6.0.0"
+    "parse5": "^6.0.1"
   },
   "devDependencies": {
-    "cspell": "^4.0.63",
-    "eslint": "^7.4.0",
-    "eslint-config-prettier": "^6.11.0",
+    "cspell": "^4.1.0",
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
     "nyc": "^15.1.0",
-    "prettier": "^2.0.5",
+    "prettier": "^2.1.2",
     "spooning": "^1.1.3",
     "spooning-cli": "^1.0.6"
   },
